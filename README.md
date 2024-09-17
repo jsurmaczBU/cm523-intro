@@ -1,9 +1,11 @@
-# CM523 Introductions
+# CM523 GitHub Intro Exercise
 
-Answer the following questions and push your changes. Use this [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for reference to update this file.
+Simple stuff.
 
-1. What is your preferred name?
-2. Where are you from (Hometown/State or Province/Country)?
-3. Why are you taking this course?
-4. Link to your portfolio (if you have one).
+1. Clone the repository using VS Code (we'll walk through it together).
+2. Edit the file using VS Code... change the title text to your name and add text to H1.
+3. Save the file.
+4. Stage your changes (we'll walk through it together).
+5. Write a commit message.
+6. Push/sync changes to your repository.
 
